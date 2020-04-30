@@ -1,4 +1,5 @@
-## Numero deve ser passado no terminal: python fatorial.py NUM
+# Numero deve ser passado no terminal: 
+# EX: python fatorial.py NUM
 
 import sys;
 
