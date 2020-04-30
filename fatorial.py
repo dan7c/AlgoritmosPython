@@ -1,3 +1,5 @@
+## Numero deve ser passado no terminal: python fatorial.py NUM
+
 import sys;
 
 arg = int(sys.argv[1])
