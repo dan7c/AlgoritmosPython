@@ -34,7 +34,7 @@ def toBin(num):
 
 
 toBin(arg)
-print('Binário: ' + ''.join(str(n) for n in numeroBin))
+print('Binario: ' + ''.join(str(n) for n in numeroBin))
 
 toHex(arg)
 print('Hexadecimal: ' + ''.join(str(n) for n in numeroHex))
