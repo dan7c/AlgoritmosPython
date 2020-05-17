@@ -13,4 +13,7 @@ def fatorial(n):
   
 
 for i in range(0, arg+1):
-  print "{0}! = {1}".format(i, fatorial(i))
+# python2:
+	# print '{0}! = {1}'.format(i, fatorial(i))
+# python3: 
+	print(f'{arg}! = {fatorial(arg)}')
